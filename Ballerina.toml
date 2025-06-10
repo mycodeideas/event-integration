@@ -1,0 +1,4 @@
+[package]
+org = "integrationdemos"
+name = "event_integration"
+version = "0.1.0"
